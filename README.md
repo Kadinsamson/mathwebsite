@@ -214,14 +214,14 @@ Publish the website in the given URL.
         });
 
     </script>
-    <footer> <p class="by"><B>Developed by :KERSOAN</B></p></footer>
+    <footer> <p class="by"><B>Developed by :KADIN SAMSON L</B></p></footer>
 </body>
 </html>
 ```
 
 ## OUTPUT:
 
--- include your output screenshots ---
+![gitlogo](SAM.png)
 
 ## Result:
 
